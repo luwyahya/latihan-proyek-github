@@ -1,0 +1,6 @@
+CABANG 1
+ - ada ikan
+   *nila
+   *patin
+ - ada ayam
+ - ada hiu
