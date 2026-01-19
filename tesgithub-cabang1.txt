@@ -1,9 +1,14 @@
 CABANG 1
  - ada ikan
-   *nila
-   *patin
+   *tuna
+   *makarel
+   *salmon
+
  - ada ayam
+
  - ada hiu
    *megalodon
    *great white
+   *ikan sapu sapu
+
  - ada burung
